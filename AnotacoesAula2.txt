@@ -1,0 +1,35 @@
+Aula 2 - BACKEND
+-Explicando relacionamento de tabelas
+7min
+-Foreign Keys Prisma
+15min
+-Explicando como funciona o seed
+22min
+-Criação das rotas
+32min
+-Validação dos dados que chegarão do FrontEnd - ZOD
+36min
+-Testando Rota
+43min
+--FRONTEND
+-mudando tailwind config
+1:13hr
+-Key React
+1:17hr
+-Mostrando os dias anteriores e atuais na tabela
+1:25hr
+
+
+MOBILE
+-NativeWind -> usar tailwind no react native
+1:35hr
+-Estratégia de fragment
+1:41hr
+-Tipar className para usar no ReactNative
+1:43hr
+-utilizar SVG no reactNative
+1:49hr
+
+
+
+

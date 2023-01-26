@@ -1,0 +1,29 @@
+NLW SETUP - SERVER
+-Criação de um projeto
+16min
+-O que é TypeScript?
+18min
+-Criando primeira Rota
+25min
+-Banco de Dados BackEnd - Prisma
+28min
+-Acesso tabelas do BD
+37min
+-Liberar o front-end para acessar os dados do BackEnd
+40min
+-Criando FrontEnd - ViteJS
+44min
+-Componentização
+48min
+* Componente: Reaproveitar/Isolar 
+* Propriedade: Uma info enviada para modificar um componente visual ou comportamentalmente
+-Tailwind CSS
+55min
+
+REACT NATIVE
+1hr
+-Criando projeto
+1:26hr
+**npx expo star --clear / garante que o comando seja executado limpo
+-Carregando fontes antes do app subir
+1:50hr
